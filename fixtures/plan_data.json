@@ -1,0 +1,29 @@
+[
+    {
+        "model": "plan.Plan",
+        "pk": 1,
+        "fields": {
+            "name": "Free",
+            "description": "Free Payment Plan",
+            "price": 0
+        }
+    },
+    {
+        "model": "plan.Plan",
+        "pk": 2,
+        "fields": {
+            "name": "Standard",
+            "description": "Standard Payment Plan",
+            "price": 10
+        }
+    },
+    {
+        "model": "plan.Plan",
+        "pk": 3,
+        "fields": {
+            "name": "Pro",
+            "description": "Pro Payment Plan",
+            "price": 25
+        }
+    }
+]
